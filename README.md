@@ -1,2 +1,2 @@
 # Twitter-sentiment-analysis
-Sentiment Analysis with Tweepy
+Twitter Sentiment Analysis with Tweepy
